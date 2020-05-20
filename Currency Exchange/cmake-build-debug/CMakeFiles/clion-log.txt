@@ -1,0 +1,49 @@
+"C:\Program Files\JetBrains\CLion 2018.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\gates\OneDrive - Northeastern University\College Education\Freshman Year Classes\Semester 1(Fall 2018)\GE 1501 Folder\Assignments and Projects\Programming Codes\Currency Exchange"
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is unknown
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+CMake Warning in C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_0aa7d.dir/
+
+  has 252 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCCompiler.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe -- broken
+CMake Error at C:/Program Files/JetBrains/CLion 2018.2.3/bin/cmake/win/share/cmake-3.12/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_0aa7d/fast"
+    C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0aa7d.dir\build.make CMakeFiles/cmTC_0aa7d.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe[1]: CMakeFiles\cmTC_0aa7d.dir\build.make: No such file or directory
+    mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles\cmTC_0aa7d.dir\build.make'.  Stop.
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:120: cmTC_0aa7d/fast] Error 2
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeError.log".

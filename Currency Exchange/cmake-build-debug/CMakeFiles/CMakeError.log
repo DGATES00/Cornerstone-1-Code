@@ -1,0 +1,118 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: error: unrecognized command line option '--c++'
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: error: unrecognized command line option '--c++'
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: error: CMakeCXXCompilerId.cpp: No such file or directory
+g++.exe: error: unrecognized command line option '--ec++'; did you mean '-Weffc++'?
+g++.exe: fatal error: no input files
+compilation terminated.
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe" "cmTC_0aa7d/fast"
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0aa7d.dir\build.make CMakeFiles/cmTC_0aa7d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: CMakeFiles\cmTC_0aa7d.dir\build.make: No such file or directory
+mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles\cmTC_0aa7d.dir\build.make'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/Users/gates/OneDrive - Northeastern University/College Education/Freshman Year Classes/Semester 1(Fall 2018)/GE 1501 Folder/Assignments and Projects/Programming Codes/Currency Exchange/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_0aa7d/fast] Error 2
+
+
